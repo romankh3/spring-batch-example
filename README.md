@@ -14,7 +14,7 @@ mvnw spring-boot:run
 
 `http://localhost:8080/h2-console` - getting to H2 database.
 
-## Technologocal Stack
+## Technological Stack
 *   Spring Boot 2.2.2-RELEASE
 *   Spring Boot Web
 *   Spring Boot Devtools
